@@ -4,7 +4,7 @@ antes de tudo é necessário instalar o opencv para realizar as operações nece
 
 `pip install opencv-python`
 
-Neste desafio utilizei o python com a biblioteca OpenCV para analisar a imagem.
+Neste desafio utilizei o python com a biblioteca OpenCV para analisar esta imagem.
 
 ![image](meteor.png)
 
