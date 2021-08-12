@@ -11,8 +11,6 @@ Neste desafio utilizei o python com a biblioteca OpenCV para analisar a imagem.
 O que eu imaginei para a solução foi, como a imagem é uma matriz com 3 camadas, sendo elas, Red, Green e Blue, ou seja cada coordenada ou pixel, é um conjunto desses 3 elementos. Por exemplo, usando o OpenCV é possível descobrir o código em RGB dele.
 
 
-
-
 ```python
 import cv2
  
